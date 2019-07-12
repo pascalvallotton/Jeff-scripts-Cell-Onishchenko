@@ -12,6 +12,8 @@
 close all;
 clear all;
 
+%clear all
+
 % USER INPUTS
 filename = 'C:\Documents and Settings\Jeff\My Documents\Jeff\Data\130725_misc_expts\M1_fov1_lsm.tif';
 thresh_param = 1.4; % Thresholding parameter
